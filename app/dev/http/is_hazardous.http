@@ -1,2 +1,0 @@
-GET http://{{url}}/neo/hazardous
-Content-Type: application/json
